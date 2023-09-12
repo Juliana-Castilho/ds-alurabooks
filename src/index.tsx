@@ -18,3 +18,4 @@ export * from './componentes/AbButton';
 export * from './componentes/Card';
 export * from './componentes/AbTag';
 export * from './componentes/AbCard';
+export * from './componentes/AbOptionGroup';
