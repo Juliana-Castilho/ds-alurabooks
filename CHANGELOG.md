@@ -1,3 +1,15 @@
+# v0.4.4 (Tue Sep 26 2023)
+
+#### ⚠️ Pushed to `master`
+
+- create AbInputQuantity component ([@Juliana-Castilho](https://github.com/Juliana-Castilho))
+
+#### Authors: 1
+
+- Juliana Castilho ([@Juliana-Castilho](https://github.com/Juliana-Castilho))
+
+---
+
 # v0.4.3 (Mon Sep 25 2023)
 
 #### ⚠️ Pushed to `master`
