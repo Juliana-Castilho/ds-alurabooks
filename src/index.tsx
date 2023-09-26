@@ -19,3 +19,4 @@ export * from './componentes/Card';
 export * from './componentes/AbTag';
 export * from './componentes/AbCard';
 export * from './componentes/AbOptionGroup';
+export * from './componentes/AbInputQuantity';
